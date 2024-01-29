@@ -5,7 +5,7 @@
   - Color the heading red
   - Change the heading font to Verdana 
   - Change the paragraph font to Comic Sans
-- Add a unordered list of 3 items (`ul`)
+- Add a unordered list of 3 items (`ul`)`li`
   - Set the font to comic sans
 - Add an image (`img`) with the following source `https://picsum.photos/200/300`
 

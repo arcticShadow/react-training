@@ -32,6 +32,6 @@ The goal should be to identify silly mistakes, code smells, or areas for improve
 
 ### What is good code?
 
-There is no such thing as good coed in my opinion. 
+There is no such thing as good code in my opinion. 
 
 Code can always be improved, regardless of what level the author is at. Code is only as good as the knowledge that was used to craft it.
