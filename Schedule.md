@@ -15,6 +15,12 @@ Tuesday 30th
 Wednesday
 * Discuss React
 * Add Shared component to React app
+* 4-Vite
+* 5- Package managers
 
-4-Vite
-5- Package managers
+Thursday
+* nextjs
+* typescript
+
+Friday 
+* Pattern library

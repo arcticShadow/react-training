@@ -17,5 +17,3 @@ Discussions
 * Whats different between using react and plain html?
 * Is it harder, easier, or no different, if we added more pages, and then needed to change the layout across multiple pages. 
 * What is the significance of needing to run npm run start, or npm run build before you can view your website? Whats happenning there?
-
-Wht
