@@ -9,10 +9,10 @@ https://nextjs.org/docs/pages/api-reference/create-next-app
 * Make sure you have two pages (you may need to add a couple of pages) 
 
 Reference: https://nextjs.org/docs/app/building-your-application/routing/pages-and-layouts
-tip: add a folder insider `app` called `page1` and another folder called `page2`. Inside each folder, create a `page.tsx` file with the following content
+tip: add a folder insider `app` called `page1` and another folder called `page2`. Inside each folder, create a `page.js` file with the following content
 
 ```
-// `app/page1/page.tsx` and `app/page2/page.tsx`
+// `app/page1/page.js` and `app/page2/page.js`
 export default function Page() {
   return <h1>Hello, page!</h1>
 }

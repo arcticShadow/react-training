@@ -8,7 +8,7 @@
   - Change the paragraph font to Comic Sans
 - Add a unordered list of 3 items (`ul`)
   - Set the font to comic sans
-- Replace the exissting image, with a new one with the following source `https://picsum.photos/200/300`
+- Replace the existing image, with a new one with the following source `https://picsum.photos/200/300`
 
 
 Discussions

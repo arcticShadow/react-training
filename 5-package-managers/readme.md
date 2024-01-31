@@ -1,7 +1,7 @@
-# Pacakage managers
+# Package managers
 
 Different types
-
+    
 Reasons for different types of package managers
 
 Purpose of package manager
